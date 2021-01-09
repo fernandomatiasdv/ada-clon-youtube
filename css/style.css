@@ -71,7 +71,7 @@ ul li{
 .card-logo{
     width: 15%;
     height: 38%;
-    background-color: aqua;
+    padding-top: 13px;
 }
 .card-titulos{
     padding: 10px;
